@@ -1,4 +1,4 @@
-# Maven Project "Movies Web app"
+# Maven Project "Movies REST API"
 
 MOVIES REST API
 Made with : Spring Boot, Maven
